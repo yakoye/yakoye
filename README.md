@@ -3,7 +3,7 @@
 我长期开发和维护一些 Windows 工具、浏览器扩展及效率工具。
 
 目前主要维护：
-- [Shazao-markdown](https://github.com/yakoye/YeImageViewer) — Windows 好用所见即所得的Markdown编辑软件
+- [Shazao-markdown](https://github.com/yakoye/Shazao-markdown) — Windows 好用所见即所得的Markdown编辑软件
 - [YeImageViewer](https://github.com/yakoye/YeImageViewer) — Windows 好用美观又极速的看图软件
 - [WindowMark](https://github.com/yakoye/WindowMark) — Windows 多窗口快速切换工具
 - [PiInput](https://github.com/yakoye/PiInput) — 中文输入法相关项目
