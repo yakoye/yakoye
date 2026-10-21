@@ -10,7 +10,7 @@
 - [PiInput](https://github.com/yakoye/PiInput) — windows 中文输入法，小巧，极简，支持全拼/双拼，快捷命令和输入
 - [RegCalc64](https://github.com/yakoye/RegCalcTextTool) — 64-bit 寄存器计算工具
 - [ContentRadar](https://github.com/yakoye/ContentRadar) — 文本/内容辅助工具，notepad++插件/vscode插件
-- [NppAlign]https://github.com/yakoye/NppAlign - notepad++插件，对齐工具
+- [NppAlign](https://github.com/yakoye/NppAlign) - notepad++插件，对齐工具
 - [siyuan-drawnix-mind](https://github.com/yakoye/siyuan-drawnix-mind) - 白板+思维导图工具
 
 如果这些项目对你有帮助，也可以通过爱发电支持后续开发：
